@@ -1,8 +1,8 @@
 npm install
 
-npm run serve (serve on port 3000)
-
 npm run test (run test suite)
+
+npm run serve (serve on port 3000)
 
 ## Disclaimer
 - This project is not meant to be production ready. It's purpose is to give a general outline of how to solve the stated problem. I have tried to note below and in the code where improvements could/would be made for a real life implementation.
