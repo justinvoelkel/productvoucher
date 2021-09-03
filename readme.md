@@ -1,5 +1,7 @@
 npm install
+
 npm run serve (serve on port 3000)
+
 npm run test (run test suite)
 
 ## Disclaimer
