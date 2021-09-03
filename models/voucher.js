@@ -8,6 +8,6 @@ const schema = joi.object({
     .length(10)
     .required(),
   products: joi.array().items(product)
-}).with('code', 'sku')
+})
 
 module.exports = schema
